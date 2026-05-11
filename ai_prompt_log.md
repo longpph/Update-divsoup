@@ -1,0 +1,2 @@
+Tôi mới tìm hiểu về Git và HTML, tôi đang có khó khăn khi tìm hiểu về thẻ <section> <article> <aside>. Bạn hãy đóng vai trò như một giảng viên, hãy hướng dẫn tôi về công dụng, cú pháp dùng các thẻ trên.
+Bạn hãy xem tôi thiết kế các mã thẻ <section> <article> <h2> <h3> này đã hợp lý chưa? Có cần thay đổi gì không?
